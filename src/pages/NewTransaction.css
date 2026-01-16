@@ -1,0 +1,12 @@
+.NewTransaction {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 40px;
+}
+
+.NewTransaction header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

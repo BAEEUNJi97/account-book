@@ -1,0 +1,12 @@
+.EditTransaction {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 40px;
+}
+
+.EditTransaction header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
